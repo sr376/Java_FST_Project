@@ -1,5 +1,4 @@
 package com.example.JDBCdemo.model;
-
 import org.springframework.stereotype.Component;
 import org.springframework.context.annotation.Scope;
 
