@@ -10,7 +10,7 @@ public class Alien {
     private String name;
     private String tech;
 
-    // Getters and Setters
+    // Gs and Ss
     public int getId() {
         return id;
     }
